@@ -1,0 +1,1 @@
+Création d'un dé dont on peut choisir le nombre de face et d'un affichage dans le main pour l'utiliser
